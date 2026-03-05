@@ -39,6 +39,7 @@ wallpaper {
   monitor =
   path = /usr/share/backgrounds/astolfo.png
   fit_mode = cover
+}
 EOF
 
 echo "Hyprland config..."
