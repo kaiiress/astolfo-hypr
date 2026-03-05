@@ -20,7 +20,7 @@ rm -rf /tmp/paru
 fi
 
 echo "Installing the browser"
-paru -S librewolf
+paru -S helium-browser
 
 echo "Installing orbit (waybar module)"
 paru -S orbit-wifi
