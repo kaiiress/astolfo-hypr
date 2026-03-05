@@ -15,9 +15,10 @@ Installs:
 * Waybar config
 
 ## Install
-
+```
 sudo pacman -S --needed git base-devel
 git clone https://github.com/kaiiress/astolFOSS.git
 cd astolFOSS
 chmod +x install.sh
 ./install.sh
+```
