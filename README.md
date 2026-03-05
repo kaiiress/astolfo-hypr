@@ -18,6 +18,6 @@ Installs:
 
 sudo pacman -S --needed git base-devel
 git clone https://github.com/kaiiress/astolFOSS.git
-cd astolfo-hypr
+cd astolFOSS
 chmod +x install.sh
 ./install.sh
