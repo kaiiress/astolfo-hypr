@@ -35,11 +35,8 @@ sudo cp assets/astolfo.png /usr/share/backgrounds/astolfo.png
 
 echo "Hyprpaper config..."
 cat > ~/.config/hypr/hyprpaper.conf <<EOF
-wallpaper {
-  monitor =
-  path = /usr/share/backgrounds/astolfo.png
-  fit_mode = cover
-}
+preload = /usr/share/backgrounds/astolfo.png
+wallpaper = ,/usr/share/backgrounds/astolfo.png
 EOF
 
 echo "Hyprland config..."
