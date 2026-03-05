@@ -8,7 +8,7 @@ Installs:
 * Ly login manager
 * Waybar
 * PipeWire audio
-* LibreWolf browser
+* firefox
 * Fish shell
 * Paru AUR helper
 * Astolfo wallpaper
