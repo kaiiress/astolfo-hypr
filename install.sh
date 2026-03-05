@@ -62,7 +62,7 @@ cp waybar/config.jsonc ~/.config/waybar/config
 cp waybar/style.css ~/.config/waybar/style.css
 
 echo "Creating pacman monster alias..."
-alias --save monster="sudo pacman"
+alias -s monster="sudo pacman"
 
 
 echo "Astolfo Hyprland setup complete!"
