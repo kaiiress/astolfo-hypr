@@ -1,4 +1,4 @@
-# astolfo-hypr
+# astolFOSS
 
 Hyprland setup script for Arch Linux.
 
