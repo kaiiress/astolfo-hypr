@@ -14,6 +14,11 @@ Installs:
 * Astolfo wallpaper
 * Waybar config
 
+## Image/Media
+![](/assets/rice.png)
+![](/assets/rice1.png)
+![](/assets/rice2.png)
+
 ## Install
 ```
 sudo pacman -S --needed git base-devel
